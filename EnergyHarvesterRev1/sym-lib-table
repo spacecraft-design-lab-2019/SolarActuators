@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PDB-eagle-import)(type Legacy)(uri ${KIPRJMOD}/PDB-eagle-import.lib)(options "")(descr ""))
+)
