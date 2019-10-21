@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SolarZ-eagle-import)(type Legacy)(uri ${KIPRJMOD}/SolarZ-eagle-import.lib)(options "")(descr ""))
+)
